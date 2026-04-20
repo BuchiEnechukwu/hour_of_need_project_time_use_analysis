@@ -1,0 +1,109 @@
+﻿code,activity,activity_domain,energy used,where used
+10,Sleeping,Rest,No,Home
+20,Resting (unspecified),Rest,No,Maybe
+21,Resting - Time out,Rest,No,Home
+22,Sick in bed,Rest,No,Maybe
+30,"Washing, dressing, personal care",Washing,Yes,Home
+31,Washing and dressing,Washing,Yes,Home
+32,Other personal care,Care,Maybe,Home
+40,"Eating, drinking, meal at home or work",Food,Maybe,Home
+50,"Preparing food, cooking, washing up",Food,Yes,Home
+51,Food preparation and baking,Food,Yes,Home
+52,"Dish clearing, washing",Washing,Yes,Home
+53,"Storing, arranging, preserving food stocks",Food,No,Home
+60,Cleaning and tidying the house,Cleaning,Yes,Home
+61,Cleaning dwelling,Cleaning,Yes,Home
+62,"Cleaning garden, yard",Cleaning,Yes,Home
+63,Arranging household goods and materials,Maintenance,Maybe,Home
+64,Recycling and disposal of waste,Maintenance,No,Home
+65,Other household upkeep,Maintenance,Maybe,Home
+70,"Clothes washing, mending, sewing",Washing,Yes,Home
+71,Laundry,Washing,Yes,Home
+72,Ironing,Washing,Yes,Home
+73,"Other textile care, e.g., mending",Maintenance,Maybe,Home
+80,"Maintenance of house, DIY, gardening, etc.",Maintenance,Maybe,Home
+81,Gardening,Maintenance,Maybe,Home
+82,Tending domestic animals,Care,Maybe,Home
+83,Caring for pets,Care,Maybe,Home
+84,Heating dwelling and water,Heating,Yes,Home
+85,House construction and renovation,Maintenance,Maybe,Home
+86,Repairs to dwelling,Maintenance,Maybe,Home
+87,"Making, repairing, maintaining equipment",Maintenance,Maybe,Home
+88,Vehicle maintenance,Maintenance,Maybe,Maybe
+89,Other construction and repairs,Maintenance,No,Maybe
+90,"Services, e.g., doctor/dentist/hairdresser",Leisure,No,Not Home
+100,"Church, temple, mosque, synagogue, prayer",Leisure,No,Not Home
+101,Religious activities,Leisure,No,Maybe
+102,Visits to cemetery and grave care,Leisure,No,Not Home
+110,Travelling (unspecified),Leisure,No,Not Home
+111,"Travelling: walking, jogging",Leisure,No,Not Home
+112,Travelling: cycle,Leisure,No,Not Home
+113,Travelling: in own car,Leisure,No,Not Home
+114,Travelling: public transport,Leisure,No,Not Home
+115,Travelling: other,Leisure,No,Not Home
+116,"Travelling: taxi, Uber, lift",Leisure,No,Not Home
+117,"Travelling: motorbike, moped",Leisure,No,Not Home
+130,"Going out to eat, drink, e.g., pub, restaurant",Food,No,Not Home
+170,Paid work including at home (unspecified),Job,Maybe,Home
+171,"Paid job (incl. short breaks, travel at or for work)",Job,Maybe,Not Home
+172,Other activities related to employment,Job,Maybe,Not Home
+180,Formal education (unspecified),Education,Maybe,Not Home
+181,Classes and lectures,Education,No,Not Home
+182,Homework,Education,Maybe,Home
+183,Internship,Job,No,Not Home
+190,"Recreational courses, study (unspecified)",Education,No,Not Home
+191,Extracurricular activities,Education,No,Not Home
+192,Free time study,Education,No,Maybe
+193,Other activities related to study,Education,No,Maybe
+200,"Voluntary work for club, organisation",Leisure,No,Not Home
+201,Organisational work,Job,No,Not Home
+202,"Meetings, clubs",Leisure,No,Not Home
+203,Other participatory activities,Leisure,No,Maybe
+210,Caring for own children (unspecified),Care,Maybe,Home
+211,Physical care and supervision of child,Care,No,Home
+212,"Teaching child, homework",Education,Maybe,Home
+213,"Reading, playing, and talking with child",Education,No,Home
+214,Accompanying child,Care,No,Not Home
+215,Other childcare,Care,No,Maybe
+216,Care of own children living elsewhere,Care,No,Not Home
+220,Caring for other children,Care,No,Not Home
+230,"Help, caring for adult household members",Care,No,Maybe
+231,Physical care of an adult household member,Care,No,Maybe
+232,Other support to an adult household member,Care,Maybe,Maybe
+240,"Unpaid help, caring for adults not in household",Care,No,Home
+241,Help to an adult person of another household,Care,No,Not Home
+243,Construction and repairs as help,Maintenance,Maybe,Home
+244,Help in employment and farming,Job,No,Not Home
+245,Other informal help to another household,Care,No,Not Home
+250,Work/study break (unspecified),Job,No,Maybe
+251,Lunch break in main and second jobs,Food,No,Not Home
+252,Breaks at school/university,Food,No,Not Home
+260,"Shopping, bank, etc., including online",Food,No,Maybe
+261,Shopping (including e-shopping),Food,No,Maybe
+262,Commercial and administrative services,Job,No,Not Home
+263,Household management,Maintenance,No,Home
+264,Other shopping and services,Care,No,Not Home
+270,"Watching/streaming TV/DVD, music",Media,Yes,Home
+271,"Watching TV, video, or DVD",Media,Yes,Home
+272,Listening to radio or recordings,Media,Yes,Home
+280,"Reading, including e-books",Media,Yes,Home
+281,Reading periodicals,Media,No,Home
+282,Reading books,Education,No,Home
+283,Other reading,Education,No,Home
+290,"Playing sports, exercise (unspecified)",Leisure,Maybe,Not Home
+291,Walking and hiking,Leisure,No,Not Home
+292,Jogging and running,Leisure,No,Not Home
+293,"Cycling, skiing and skating",Leisure,No,Not Home
+294,Ball games,Leisure,No,Not Home
+295,Gymnastics and fitness,Leisure,Yes,Not Home
+296,Water sports,Leisure,No,Not Home
+297,"Productive exercise: hunt, fish, pick berries, etc.",Leisure,No,Not Home
+298,Sports related activities,Leisure,Maybe,Not Home
+299,Other sports or outdoor activities,Leisure,No,Not Home
+300,"Going out to eat, drink, e.g., pub, restaurant (unspecified)",Food,No,Not Home
+310,Walking/dog walking,Leisure,No,Not Home
+320,Playing computer games (unspecified),Computing,Yes,Maybe
+360,Hobbies (unspecified),Leisure,No,Maybe
+361,"Arts (visual, performing, literary)",Education,No,Maybe
+400,Filling in the time use diary,Leisure,No,Home
+999,Missing,Leisure,Maybe,Maybe
