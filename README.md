@@ -2,7 +2,7 @@
 
 This project uses UK time use diary episodes to examine **when households undertake activities associated with electricity use** and how those patterns differ across household groups. It is designed to inform discussions about time of use tariffs and demand flexibility: a household's ability to shift activities depends on its routines and circumstances.
 
-The notebooks analyse **reported activity timing and duration**, not metered electricity consumption. An activity may involve electricity, but its recorded minutes should not be interpreted as kWh or as a direct estimate of demand.
+The analysis was conducted within the **UKDS SecureLab** which is a secured research environment, with protection requiremets of the participants details. The notebooks analyse **reported activity timing and duration**. An activity may involve electricity, but its recorded minutes should not be interpreted as kWh or as a direct estimate of demand.
 
 ## Research questions
 
@@ -46,7 +46,7 @@ The analysis also uses a **load factor style measure**, calculated as the mean a
 
 4. Run `1.0 Data_preprocessing.ipynb`, then `2.0 Analysis_Hour_of_Need.ipynb`, then `3.0 Household_behaviour_analysis.ipynb`.
 
-The preprocessing notebook contains alternative missing value handling steps. Review that choice before a full run, as it affects the analysis sample. The notebooks have not been packaged as a one command pipeline and no dataset or locked dependency versions are supplied.
+The preprocessing notebook contains alternative missing value handling steps. Review that choice before a full run, as it affects the analysis sample.
 
 ## Interpretation and scope
 
