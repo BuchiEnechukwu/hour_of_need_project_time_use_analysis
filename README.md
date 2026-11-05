@@ -2,7 +2,7 @@
 
 This project uses UK time use diary episodes to examine **when households undertake activities associated with electricity use** and how those patterns differ across household groups. It is designed to inform discussions about time of use tariffs and demand flexibility: a household's ability to shift activities depends on its routines and circumstances.
 
-The analysis was conducted within the **UKDS SecureLab** which is a secured research environment, with protection requiremets of the participants details. The notebooks analyse **reported activity timing and duration**. An activity may involve electricity, but its recorded minutes should not be interpreted as kWh or as a direct estimate of demand.
+The analysis was conducted within the **UKDS SecureLab** which is a secured research environment, with protection requiremets of the participants details. The notebooks in this repo are the analysis of the **reported activity timing and duration**. An activity may involve electricity, but its recorded minutes should not be interpreted as kWh or as a direct estimate of demand. The smart meter data analysis are not yet public.
 
 ## Research questions
 
